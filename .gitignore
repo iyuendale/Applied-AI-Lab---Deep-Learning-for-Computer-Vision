@@ -1,2 +1,10 @@
 model/
 *.jpg
+*.pyc
+*.DS_Store
+try.ipynb
+data/benchmark.ipynb
+projec1.ipynb
+example.db
+Applied AI Lab - Deep Learning for Computer Vision.code-workspace
+*.csv
