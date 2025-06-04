@@ -7,6 +7,12 @@ data/benchmark.ipynb
 projec1.ipynb
 example.db
 Applied AI Lab - Deep Learning for Computer Vision.code-workspace
-*.csv
+# *.csv
 data/animal images/benchmark.ipynb
 data/archive.zip
+data/animal images/submission_format.csv
+data/animal images/submission.csv
+data/animal images/test_features.csv
+data/animal images/train_features.csv
+data/animal images/train_labels.csv
+Project 1 - Wildlife Conservation in Cote d'Ivoire/submission.csv
